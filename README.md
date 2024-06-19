@@ -1,18 +1,18 @@
-# Hi there, I'm Ahmad Barish!
+# Hi there, I'm Ahmad Nidal!
 
 <p align="center">
-  <img src="./me.png" alt="Ahmad Barish" height="100px" width="100px"/>
+  <img src="./me.png" alt="Ahmad Nidal" height="100px" width="100px"/>
 </p>
 
-Welcome to my GitHub profile. I'm a frontend developer who loves building web applications and enhancing user experiences.
+Welcome to my GitHub profile. I'm a Mobile developer who loves building web applications and enhancing user experiences.
 
 ## About Me
 
 <p align="center">
   <em>
-    🌱 I'm currently learning advanced frontend development techniques. <br>
-    💼 I work as a frontend developer. <br>
-    💬 Ask me about anything related to frontend development, and I'll be happy to help.
+    🌱 I'm currently learning advanced Mobile development techniques. <br>
+    💼 I work as a Mobile developer. <br>
+    💬 Ask me about anything related to Mobile development, and I'll be happy to help.
   </em>
 </p>
 
@@ -34,7 +34,7 @@ Welcome to my GitHub profile. I'm a frontend developer who loves building web ap
 ## 📫 Contact Me
 
 <p align="center">
-  You can reach out to me via email: <a href="mailto:ahmad.bariish@gmail.com">ahmad.bariish@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/ahmad-barish">LinkedIn</a>.
+  You can reach out to me via email: <a href="mailto:ahmadnidaldelea@gmail.com">ahmadnidaldelea@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/ahmad-nidal7">LinkedIn</a>.
 </p>
 
 <p align="center">
